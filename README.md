@@ -1,7 +1,4 @@
 
-<p align="center">
-  <img src="https://files.catbox.moe/h8u824.jpeg" alt="node-wpscan banner" width="100%">
-</p>
 
 <h1 align="center">VelynnCode</h1>
 
