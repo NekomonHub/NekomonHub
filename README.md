@@ -3,7 +3,7 @@
 <h1 align="center">NekomonHub</h1>
 
 <p align="center">
-  My name is Velinn
+  Panggil saja Neko
 </p>
 
 <p align="center">
@@ -13,3 +13,9 @@
   <img src="https://img.shields.io/badge/Termux-Android-black?logo=android" />
   <img src="https://img.shields.io/badge/npm-Package-red?logo=npm" />
 </p>
+
+***Hobby Saya?***
+- Coding Cli Developer (Node.js / Javascript)
+- Ransomware NpmJS Analysis
+- PC Builder (Computer Tech)
+
