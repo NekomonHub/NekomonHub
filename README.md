@@ -1,6 +1,8 @@
 <h1 align="center">NekomonHub</h1>
 <p align="center">Panggil saja Neko</p>
+
 Saya adalah mahasiswa yang sedang mendalami dunia pemrograman, Bahasa utama saya adalah Javascript, runtime favorit saya adalah Node.js
+
 
 <p align="center">
   <img src="https://img.shields.io/badge/JavaScript-ESM-yellow?logo=javascript&logoColor=black" />
