@@ -17,6 +17,10 @@
 <p>
 Saya adalah mahasiswa yang lagi aktif-aktifnya belajar mendalami dunia pemrograman. Bahasa favorit saya adalah Javascript, Runtime utama saya adalah Node.js</p>
 
+```js
+console.log("Hello World");
+```
+
 # Siapakah Saya?
 ```js
 Nama  : Zenno Ardiansyah Saputra
