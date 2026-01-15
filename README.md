@@ -14,8 +14,11 @@
   <img src="https://img.shields.io/badge/npm-Package-red?logo=npm" />
 </p>
 
-***Hobby Saya?***
-- Coding Cli Developer (Node.js / Javascript)
-- Ransomware NpmJS Analysis
-- PC Builder (Computer Tech)
-
+# Siapakah Saya?
+```js
+Nama  : Zenno Ardiansyah Saputra
+Umur  : 16 Tahun
+Hobby : Node.js Coding
+Food  : Rendang, Terong Balado
+Asal  : Bandung, Jawa Barat, Indonesia
+```
