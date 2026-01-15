@@ -11,6 +11,10 @@ Saya adalah mahasiswa yang sedang mendalami dunia pemrograman, Bahasa utama saya
   <img src="https://img.shields.io/badge/GitHub-NekomonHub-black?logo=github" />
 </p>
 
+```js
+console.log("Hello World");
+```
+
 <p align="center">
   <img src="https://media.tenor.com/lE5M6y3RQcEAAAAi/cat-coding.gif" width="220" />
 </p>
@@ -44,13 +48,6 @@ Saya adalah mahasiswa yang sedang mendalami dunia pemrograman, Bahasa utama saya
 - Malware Cli
 - Wifi Deauther
 ---
-
-## Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=NekomonHub&show_icons=true&theme=tokyonight" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NekomonHub&layout=compact&theme=tokyonight" />
-</p>
 
 ---
 
