@@ -14,9 +14,8 @@
   <img src="https://img.shields.io/badge/npm-Package-red?logo=npm" />
 </p>
 
-```text
-Saya adalah mahasiswa yang lagi aktif-aktifnya belajar mendalami dunia pemrograman. Bahasa favorit saya adalah Javascript, Runtime utama saya adalah Node.js
-```
+<p>
+Saya adalah mahasiswa yang lagi aktif-aktifnya belajar mendalami dunia pemrograman. Bahasa favorit saya adalah Javascript, Runtime utama saya adalah Node.js</p>
 
 # Siapakah Saya?
 ```js
